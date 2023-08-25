@@ -1,35 +1,38 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
+title: DBGames
+publishDate: 2022-07-08 00:00:00
 img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Preview homepage of DBGames
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Lien pour visiter mon site web centré sur les jeux vidéos.
 tags:
-  - Design
+  - SQL
   - Dev
-  - User Testing
+  - Gaming
 ---
 
-## Level-two heading
+## DBGames
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Un réseau pour les gamers
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+Bienvenue sur <a href="https://dbgames.gprouchandy.fr/">DBGames</a>, le réseau social conçu par un gamer pour les gamers ! Nous savons que le monde du jeu vidéo est bien plus qu'une simple distraction; c'est une passion, un art et une communauté. DBGames est encore en cours de développement, mais notre objectif est clair : créer une plateforme où chaque gamer se sentira chez lui.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+### Pourquoi DBGames ?
 
-### Level-three heading
+- **Pensé par un Gamer**: Comprendre les besoins et les envies des joueurs est notre priorité, car nous sommes nous-mêmes des joueurs passionnés.
+  
+- **Réseau Social**: Partagez vos moments forts, rencontrez de nouveaux amis et discutez des dernières nouveautés et tendances dans le monde du jeu vidéo.
+  
+- **Technologie Avancée**: Notre site utilise les dernières technologies pour vous offrir une expérience fluide et immersive.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+### Fonctionnalités à Venir
 
-### Level-three heading
+- **Classements et Tournois**: Participez à des compétitions et montrez vos compétences.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+- **Marché Virtuel**: Achetez, vendez ou échangez des objets virtuels de manière sécurisée.
+  
+- **Communautés et Groupes**: Rejoignez des groupes qui partagent vos intérêts ou créez votre propre communauté.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+### Alors, pourquoi attendre ?
 
-#### Level-four heading
-
-- We noted this
-- And also this other point
+Rejoignez DBGames aujourd'hui et soyez un des premiers à faire partie de cette aventure palpitante !
