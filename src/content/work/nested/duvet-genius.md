@@ -6,8 +6,8 @@ img_alt: Homepage de mon site Bloggy
 description: |
   J'ai développé un forum / blog pour monter en compétence sur les bases de données.
 tags:
-  - Design
-  - Dev
+  - PHP
+  - Symfony
   - BDD
   - Forum
 ---
@@ -36,6 +36,6 @@ Vous cherchez un espace pour discuter de tout et de rien, partager des astuces o
 
 ### Nous Rejoindre
 
-Nous sommes impatients de vous accueillir dans notre communauté. Cliquez [ici](https://bloggy.gprouchandy.fr/) pour vous inscrire et commencez à participer aux discussions !
+Nous sommes impatients de vous accueillir dans notre communauté. Cliquez <a href="https://bloggy.gprouchandy.fr/" target="_blank">ici</a> pour vous inscrire et commencez à participer aux discussions !
 
 Alors, qu'attendez-vous ? Rejoignez Bloggy aujourd'hui et devenez partie intégrante de notre communauté dynamique !

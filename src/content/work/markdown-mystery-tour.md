@@ -7,17 +7,17 @@ description: |
   Lien pour visiter mon site web centré sur les jeux vidéos.
 tags:
   - SQL
-  - Dev
   - Gaming
   - API
-  - API Rest
+  - PHP
+  - Symfony
 ---
 
 ## DBGames
 
 > Un réseau pour les gamers
 
-Bienvenue sur <a href="https://dbgames.gprouchandy.fr/">DBGames</a>, le réseau social conçu par un gamer pour les gamers ! Nous savons que le monde du jeu vidéo est bien plus qu'une simple distraction; c'est une passion, un art et une communauté. DBGames est encore en cours de développement, mais notre objectif est clair : créer une plateforme où chaque gamer se sentira chez lui.
+Bienvenue sur <a href="https://dbgames.gprouchandy.fr/" target="_blank">DBGames</a>, le réseau social conçu par un gamer pour les gamers ! Nous savons que le monde du jeu vidéo est bien plus qu'une simple distraction; c'est une passion, un art et une communauté. DBGames est encore en cours de développement, mais notre objectif est clair : créer une plateforme où chaque gamer se sentira chez lui.
 
 ### Pourquoi DBGames ?
 

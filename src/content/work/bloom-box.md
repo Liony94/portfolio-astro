@@ -1,23 +1,37 @@
 ---
-title: Bloom Box
+title: Rendre la monnaie
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img: /assets/calculator.jpg
+img_alt: Un calculateur permettant de déterminer la manière la plus optimale de rendre la monnaie
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Un algorithme écrit en html et javascript permettant de déterminer la manière la plus optimale de rendre la monnaie
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - Javascript
+  - Calculateur
+  - Algorithme
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+### Rendre la Monnaie: Une Application de Calcul de Change
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+### Introduction
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Une application simple mais puissante qui aide les utilisateurs à calculer le change optimal à rendre en utilisant le moins de pièces et de billets possible. Retrouvez l'application <a href="https://optimal-change.netlify.app" target="_blank">ici</a>
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### Détails de la Conception et Utilité
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+L'application "Rendre la Monnaie" est conçue pour simuler le processus de calcul du change dans des situations réelles, comme dans une épicerie ou tout autre commerce de détail. Ce programme peut être particulièrement utile pour les commerçants ou toute personne ayant besoin de rendre la monnaie de manière optimale.
+
+### L'Algorithme
+
+L'algorithme sous-jacent est basé sur une approche itérative qui parcourt différentes dénominations de pièces et de billets, du plus grand au plus petit. Pour chaque dénomination, l'algorithme calcule le nombre maximal de ces pièces ou billets qui peuvent être utilisés sans dépasser le montant total à rendre. Cette valeur est ensuite soustraite du montant total, et le processus est répété pour les dénominations plus petites.
+
+### Utilité et Applications
+
+- **Commerces de Détail**: Aide les caissiers à rendre la monnaie rapidement et avec précision.
+- **Formation**: Peut être utilisé comme outil pédagogique pour enseigner aux enfants et aux adultes comment faire des transactions en espèces.
+
+### Système de Caisse Automatique
+
+L'algorithme et l'interface utilisateur sont conçus pour simuler le fonctionnement des systèmes de caisse automatique modernes, où le logiciel calcule automatiquement le montant de la monnaie à rendre et le nombre de chaque type de pièce ou de billet à utiliser. Cela garantit non seulement la précision mais aussi l'efficacité, en minimisant le nombre total de pièces et de billets utilisés.
+
+En somme, cette application vise à simplifier et à accélérer le processus de rendu de monnaie, tout en étant un excellent outil éducatif.
