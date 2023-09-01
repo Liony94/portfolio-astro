@@ -9,6 +9,8 @@ tags:
   - SQL
   - Dev
   - Gaming
+  - API
+  - API Rest
 ---
 
 ## DBGames
